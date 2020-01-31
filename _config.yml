@@ -1,11 +1,11 @@
 # Site settings
 author: Steven Perfors
-title: 
+title: My Life Encapsulated
 header-img: img/home-bg.png
 email: stevecanbuild@gmail.com
 copyright_name: Steven Perfors
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The blog of a human trying to make it in the big world. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  SPerfors
